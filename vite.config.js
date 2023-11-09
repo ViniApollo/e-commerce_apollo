@@ -3,7 +3,7 @@ import { resolve } from "path";
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/e-commerce_apollo/",
+  base: "/e-commerce_apollo",
   plugins: [],
   resolve: {
     /*something*/
